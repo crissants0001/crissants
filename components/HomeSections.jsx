@@ -9,7 +9,7 @@ import {
   FiPieChart, FiDollarSign, FiCalendar, FiFileText, 
   FiDownload, FiFilter, FiSearch, FiArrowDown
 } from 'react-icons/fi';
-import { SiNextdotjs, SiPhp, SiMysql, SiJavascript, SiCss3, SiFramer } from 'react-icons/si';
+import { SiNextdotjs, SiPhp, SiMysql, SiJavascript, SiFramer } from 'react-icons/si';
 import styles from '../styles/components.module.css';
 
 // --- Utils de Animação ---
@@ -195,7 +195,6 @@ const techs = [
   { icon: <SiPhp />, name: 'PHP' },
   { icon: <SiMysql />, name: 'MySQL' },
   { icon: <SiJavascript />, name: 'JavaScript' },
-  { icon: <SiCss3 />, name: 'CSS3' },
   { icon: <SiFramer />, name: 'Framer Motion' },
 ];
 
