@@ -127,10 +127,15 @@ export const DashboardPreview = () => (
         viewport={{ once: true }}
         className={styles.dashboardPreview}
       >
-        {/* Adicione uma imagem real na pasta public chamada dashboard-main.webp */}
-        <div style={{ width: '100%', height: '600px', background: 'var(--bg-sec)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--text-muted)' }}>
-          [Screenshot do Dashboard Aqui - Crie o arquivo public/dashboard-main.webp]
-        </div>
+        {/* A imagem do dashboard agora é chamada aqui */}
+        <Image 
+          src="/dashboard-main.png" 
+          alt="Dashboard FleetControl" 
+          width={1200} 
+          height={675} 
+          className={styles.dashboardImage}
+          unoptimized
+        />
       </motion.div>
     </div>
   </section>
