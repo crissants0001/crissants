@@ -96,6 +96,8 @@ Rather than showcasing a single system, this project represents the full scope o
 * API Integrations
 * Modular Architecture
 
+* https://crissants-5fgq.vercel.app/
+
 This project reflects my development philosophy: combining clean architecture, performance, user experience, and business intelligence to create systems that help organizations optimize operations, reduce costs, and make informed decisions based on reliable data.
 
 ---
