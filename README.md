@@ -1,44 +1,44 @@
-# 👨‍💻 Portfólio Profissional
+# 👨‍💻 Professional Portfolio
 
-## Desenvolvedor de Sistemas de Gestão | Controle de Frotas | Business Intelligence
+## Management Systems Developer | Fleet Management | Business Intelligence
 
-Olá! Seja bem-vindo ao meu portfólio.
+Hello and welcome to my portfolio.
 
-Sou desenvolvedor especializado na criação de **sistemas de gestão personalizados**, com foco em controle operacional, monitoramento de indicadores e análise de dados. Meu trabalho consiste em desenvolver soluções que automatizam processos, centralizam informações e fornecem inteligência para apoiar a tomada de decisões estratégicas.
+I am a developer specialized in building **custom management systems**, with a strong focus on operational control, performance monitoring, and data analytics. My work consists of creating solutions that automate business processes, centralize information, and provide valuable insights to support strategic decision-making.
 
-Tenho experiência no desenvolvimento de plataformas voltadas para operações empresariais, criando sistemas robustos, intuitivos e escaláveis que transformam dados operacionais em informações relevantes para gestores.
+I have experience developing platforms designed for business operations, delivering robust, intuitive, and scalable systems that transform operational data into meaningful information for managers and decision-makers.
 
 ---
 
-## 🚀 Áreas de Especialização
+## 🚀 Areas of Expertise
 
-### Sistemas de Gestão
+### Management Systems
 
-* Controle de Frotas
-* Gestão de Abastecimentos
-* Gestão Operacional
-* Controle de Veículos
-* Gestão de Custos
-* Sistemas Administrativos Personalizados
+* Fleet Management
+* Fuel Management
+* Operational Management
+* Vehicle Management
+* Cost Control
+* Custom Administrative Systems
 
 ### Business Intelligence
 
-* Dashboards Gerenciais
-* Indicadores de Desempenho (KPIs)
-* Relatórios Analíticos
-* Consolidação e Visualização de Dados
-* Monitoramento de Produtividade
+* Executive Dashboards
+* Key Performance Indicators (KPIs)
+* Analytical Reporting
+* Data Consolidation & Visualization
+* Productivity Monitoring
 
-### Desenvolvimento Web
+### Web Development
 
-* Sistemas Web Responsivos
-* Interfaces Administrativas
-* Painéis Gerenciais
-* Integração entre módulos e banco de dados
+* Responsive Web Applications
+* Administrative Interfaces
+* Management Dashboards
+* Integration Between System Modules and Databases
 
 ---
 
-## 💻 Stack Tecnológica
+## 💻 Technology Stack
 
 ### Front-end
 
@@ -51,59 +51,59 @@ Tenho experiência no desenvolvimento de plataformas voltadas para operações e
 
 * PHP
 
-### Banco de Dados
+### Database
 
 * MySQL
 
 ---
 
-## 🎯 Diferenciais
+## 🎯 What Sets My Work Apart
 
-* Desenvolvimento de sistemas totalmente personalizados.
-* Arquitetura organizada e preparada para evolução contínua.
-* Interfaces intuitivas voltadas para produtividade.
-* Dashboards analíticos para apoio à tomada de decisão.
-* Código limpo, estruturado e de fácil manutenção.
-* Foco exclusivo em soluções de gestão empresarial.
+* Fully customized management solutions tailored to business needs.
+* Well-structured and scalable software architecture.
+* Intuitive interfaces focused on productivity and usability.
+* Analytical dashboards designed to support data-driven decision-making.
+* Clean, maintainable, and well-organized code.
+* Dedicated focus on enterprise management systems.
 
 ---
 
-# Projeto em Destaque
+# Featured Project
 
 ## FleetControl Suite
 
-O projeto apresentado a seguir representa uma demonstração prática da minha capacidade de desenvolver soluções completas para gestão empresarial.
+The project presented below is a practical demonstration of my ability to design and develop complete enterprise management solutions.
 
-Ele foi concebido como um sistema de gestão de frotas e inteligência operacional, reunindo em uma única plataforma diversos recursos normalmente encontrados em softwares corporativos. Embora utilize dados fictícios para fins de demonstração, sua arquitetura, organização e funcionalidades refletem o padrão adotado em aplicações reais.
+It was created as a fleet management and operational intelligence platform, bringing together a wide range of features commonly found in commercial management software. Although it uses fictional data for demonstration purposes, its architecture, organization, and functionality reflect the same standards applied to real-world business applications.
 
-Mais do que um sistema específico, este projeto reúne as principais competências que aplico no desenvolvimento de soluções sob medida, demonstrando minha abordagem para construção de plataformas robustas, escaláveis e orientadas por dados.
+Rather than showcasing a single system, this project represents the full scope of my technical expertise and development approach. It demonstrates how I design scalable, data-driven platforms that combine operational management, business intelligence, and a modern user experience.
 
-Entre os principais módulos apresentados estão:
+### Main Modules
 
-* Dashboard Executivo
+* Executive Dashboard
 * Business Intelligence
-* Indicadores (KPIs)
-* Controle de Viagens
-* Gestão de Motoristas
-* Gestão de Veículos
-* Controle de Abastecimentos
-* Controle de Custos Operacionais
-* Agenda Operacional
-* Relatórios Analíticos
-* Monitoramento de Desempenho
-* Gráficos Interativos
-* Exportação de Relatórios
-* APIs e Integrações
-* Arquitetura Modular
+* Key Performance Indicators (KPIs)
+* Trip Management
+* Driver Management
+* Vehicle Management
+* Fuel Management
+* Operational Cost Control
+* Operational Calendar
+* Analytical Reports
+* Performance Monitoring
+* Interactive Charts
+* Report Export (PDF & Excel)
+* API Integrations
+* Modular Architecture
 
-Este projeto sintetiza minha forma de desenvolver sistemas: unir organização, desempenho, experiência do usuário e inteligência de dados para entregar soluções que auxiliem empresas a monitorar operações, reduzir custos e tomar decisões com maior precisão.
-
----
-
-## 📩 Contato
-
-**E-mail:** *crissants0001@hotmail.com*
+This project reflects my development philosophy: combining clean architecture, performance, user experience, and business intelligence to create systems that help organizations optimize operations, reduce costs, and make informed decisions based on reliable data.
 
 ---
 
-> **Desenvolvendo sistemas de gestão que transformam operações complexas em informações estratégicas para a tomada de decisão.**
+## 📩 Contact
+
+**Email:** **[crissants0001@hotmail.com](mailto:crissants0001@hotmail.com)**
+
+---
+
+> **Building management systems that transform complex operations into strategic business intelligence.**
