@@ -1,7 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
 import { motion, useAnimation } from 'framer-motion';
-import Image from 'next/image';
 import Link from 'next/link';
 import { 
   FiArrowRight, FiGithub, FiTrendingUp, FiMap, 
@@ -10,6 +9,7 @@ import {
   FiDownload, FiFilter, FiSearch, FiArrowDown
 } from 'react-icons/fi';
 import { SiNextdotjs, SiPhp, SiMysql, SiJavascript, SiFramer } from 'react-icons/si';
+import DashboardDemo from './DashboardDemo';
 import styles from '../styles/components.module.css';
 
 // --- Utils de Animação ---
@@ -51,7 +51,7 @@ export const Hero = () => (
     <div className="container">
       <motion.div initial="hidden" animate="visible" variants={staggerContainer}>
         <motion.h1 variants={fadeInUp} className={styles.heroTitle}>
-          FleetControl Suite
+          Fleet Control Suite
         </motion.h1>
         <motion.p variants={fadeInUp} className={styles.heroSubtitle}>
           Sistema Inteligente para Gestão de Frotas, Business Intelligence e Indicadores Operacionais. Transformando operações logísticas em decisões estratégicas através de dashboards analíticos e monitoramento em tempo real.
@@ -120,22 +120,14 @@ export const DashboardPreview = () => (
         <motion.h2 variants={fadeInUp} initial="hidden" whileInView="visible" className={styles.sectionTitle}>Business Intelligence</motion.h2>
         <p className={styles.sectionSubtitle}>Visão unificada de toda a operação em tempo real.</p>
       </div>
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0, scale: 0.95, rotateX: 10 }}
         whileInView={{ opacity: 1, scale: 1, rotateX: 0 }}
         transition={{ duration: 0.8 }}
         viewport={{ once: true }}
         className={styles.dashboardPreview}
       >
-        {/* A imagem do dashboard agora é chamada aqui */}
-        <Image 
-          src="/dashboard-main.png" 
-          alt="Dashboard FleetControl" 
-          width={1200} 
-          height={675} 
-          className={styles.dashboardImage}
-          unoptimized
-        />
+        <DashboardDemo compact />
       </motion.div>
     </div>
   </section>

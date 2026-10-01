@@ -7,10 +7,10 @@ export default function Footer() {
       <div className="container">
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', marginBottom: '1rem' }}>
           <FiCommand size={24} color="var(--primary)" />
-          <h2 style={{ color: 'white' }}>FleetControl Suite</h2>
+          <h2 style={{ color: 'white' }}>Fleet Control Suite</h2>
         </div>
         <p>Desenvolvido como demonstração de interface e arquitetura de software.</p>
-        <p style={{ marginTop: '2rem', fontSize: '0.9rem' }}>&copy; {new Date().getFullYear()} FleetControl. Todos os direitos reservados.</p>
+        <p style={{ marginTop: '2rem', fontSize: '0.9rem' }}>&copy; {new Date().getFullYear()} Fleet Control. Todos os direitos reservados.</p>
       </div>
     </footer>
   );

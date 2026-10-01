@@ -20,14 +20,14 @@ export default function Navbar() {
       <div className={`container ${styles.navContainer}`}>
         <Link href="/">
           <motion.div whileHover={{ scale: 1.05 }} className={styles.logo}>
-            <FiCommand /> <span>FleetControl</span>
+            <FiCommand /> <span>Fleet Control</span>
           </motion.div>
         </Link>
 
         <div className={`${styles.navLinks} ${isOpen ? styles.mobileOpen : ''}`}>
           <Link href="/#recursos" onClick={() => setIsOpen(false)}>Recursos</Link>
           <Link href="/#dashboard" onClick={() => setIsOpen(false)}>Dashboard</Link>
-          <Link href="/prints" onClick={() => setIsOpen(false)}>Screenshots</Link>
+          <Link href="/dashboards" onClick={() => setIsOpen(false)}>Dashboards</Link>
           <Link href="/#contato" onClick={() => setIsOpen(false)}>Contato</Link>
         </div>
 

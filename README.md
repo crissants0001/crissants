@@ -70,7 +70,7 @@ I have experience developing platforms designed for business operations, deliver
 
 # Featured Project
 
-## FleetControl Suite
+## Fleet Control Suite
 
 The project presented below is a practical demonstration of my ability to design and develop complete enterprise management solutions.
 
