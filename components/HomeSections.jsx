@@ -62,7 +62,7 @@ export const Hero = () => (
               Ver Demonstração <FiArrowRight />
             </button>
           </Link>
-          <a href="https://github.com" target="_blank" rel="noreferrer">
+          <a href="https://github.com/crissants0001/crissants" target="_blank" rel="noreferrer">
             <button className={styles.btnSecondary}>
               <FiGithub /> GitHub
             </button>
@@ -233,7 +233,7 @@ export const Contact = () => (
       <h2 className={styles.sectionTitle}>Vamos Conversar?</h2>
       <p className={styles.sectionSubtitle}>Disponível para oportunidades e projetos.</p>
       <div className={styles.socialLinks}>
-        <a href="#" className={styles.socialIcon}><FiGithub /></a>
+        <a href="https://github.com/crissants0001/crissants" target="_blank" rel="noreferrer" className={styles.socialIcon}><FiGithub /></a>
         <a href="#" className={styles.socialIcon}><FiMonitor /></a> {/* LinkedIn placeholder icon */}
         <a href="#" className={styles.socialIcon}><FiFileText /></a> {/* Email placeholder icon */}
       </div>
